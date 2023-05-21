@@ -1,0 +1,272 @@
+{
+  "name": "best-themes-redefined",
+  "displayName": "Best Themes Redefined 🚀",
+  "publisher": "lakshits11",
+  "author": {
+    "name": "Lakshit Somani",
+    "email": "lakshits11@gmail.com"
+  },
+  "icon": "Best-Themes_GIF.gif",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakshits11/best-themes-redefined.git"
+  },
+  "description": "🎨🚀 A distinguished collection of 51 meticulously crafted themes that strike the perfect balance between aesthetics and functionality. 💻",
+  "version": "0.2.0",
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Best Themes - Blueberry Banana",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Blueberry Banana.json"
+      },
+      {
+        "label": "Best Themes - Brogrammer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Brogrammer.json"
+      },
+      {
+        "label": "Best Themes - Darcula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Darcula.json"
+      },
+      {
+        "label": "Best Themes - Darcula Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Darcula Darker.json"
+      },
+      {
+        "label": "Best Themes - Dark Phoenix",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Dark Phoenix.json"
+      },
+      {
+        "label": "Best Themes - Darwin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Darwin.json"
+      },
+      {
+        "label": "Best Themes - Default Dark Plus Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Default Dark Plus Black.json"
+      },
+      {
+        "label": "Best Themes - Dracula Redefined",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Dracula Redefined.json"
+      },
+      {
+        "label": "Best Themes - Dracula Redefined No Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Dracula Redefined No Italic.json"
+      },
+      {
+        "label": "Best Themes - Gruvbox Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Gruvbox Dark.json"
+      },
+      {
+        "label": "Best Themes - Gruvbox Material Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Gruvbox Material Dark.json"
+      },
+      {
+        "label": "Best Themes - Gruvbox Concoctis Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Gruvbox Concoctis Dark.json"
+      },
+      {
+        "label": "Best Themes - Gruvbox NvChad",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Gruvbox NvChad.json"
+      },
+      {
+        "label": "Best Themes - Horizon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Horizon.json"
+      },
+      {
+        "label": "Best Themes - Karma",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Karma.json"
+      },
+      {
+        "label": "Best Themes - Laserwave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Laserwave.json"
+      },
+      {
+        "label": "Best Themes - Laserwave Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Laserwave Italic.json"
+      },
+      {
+        "label": "Best Themes - Material Black No Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Material Black No Italic.json"
+      },
+      {
+        "label": "Best Themes - Material Black Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Material Black Italic.json"
+      },
+      {
+        "label": "Best Themes - Material High Contrast Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Material High Contrast Italic.json"
+      },
+      {
+        "label": "Best Themes - Material High Contrast No Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Material High Contrast No Italic.json"
+      },
+      {
+        "label": "Best Themes - Material Ocean Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Material Ocean Italic.json"
+      },
+      {
+        "label": "Best Themes - Material Ocean No Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Material Ocean No Italic.json"
+      },
+      {
+        "label": "Best Themes - Monokai Awesome",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Monokai Awesome.json"
+      },
+      {
+        "label": "Best Themes - Monokai Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Monokai Black.json"
+      },
+      {
+        "label": "Best Themes - Monokai Night Time Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Monokai Night Time Italic.json"
+      },
+      {
+        "label": "Best Themes - Monokai Night Time No Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Monokai Night Time No Italic.json"
+      },
+      {
+        "label": "Best Themes - Monokai Pirokai Arctic Frost",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Monokai Pirokai Arctic Frost.json"
+      },
+      {
+        "label": "Best Themes - Monokai Pirokai Beach Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Monokai Pirokai Beach Sunset.json"
+      },
+      {
+        "label": "Best Themes - Monokai Winter Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Monokai Winter Night.json"
+      },
+      {
+        "label": "Best Themes - Mystic Cyan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Mystic Cyan.json"
+      },
+      {
+        "label": "Best Themes - Neon City",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Neon City.json"
+      },
+      {
+        "label": "Best Themes - Night Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Night Owl.json"
+      },
+      {
+        "label": "Best Themes - Night Owl No Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Night Owl No Italic.json"
+      },
+      {
+        "label": "Best Themes - Nord Cold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Nord Cold.json"
+      },
+      {
+        "label": "Best Themes - Nord Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Nord Dark.json"
+      },
+      {
+        "label": "Best Themes - Ocean Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Ocean Night.json"
+      },
+      {
+        "label": "Best Themes - One Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - One Dark Pro.json"
+      },
+      {
+        "label": "Best Themes - One Dark Pro No Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - One Dark Pro No Italic.json"
+      },
+      {
+        "label": "Best Themes - One Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - One Monokai.json"
+      },
+      {
+        "label": "Best Themes - One Monokai Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - One Monokai Darker.json"
+      },
+      {
+        "label": "Best Themes - Outrun Space",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Outrun Space.json"
+      },
+      {
+        "label": "Best Themes - Panda Syntax",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Panda Syntax.json"
+      },
+      {
+        "label": "Best Themes - Pink Panther",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Pink Panther.json"
+      },
+      {
+        "label": "Best Themes - Sia Synthwave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Sia Synthwave.json"
+      },
+      {
+        "label": "Best Themes - Synthwave Black(No Neon)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Synthwave Black(No Neon).json"
+      },
+      {
+        "label": "Best Themes - Xcode Catalina",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Xcode Catalina.json"
+      },
+      {
+        "label": "Best Themes - Xcode Catalina Bold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Xcode Catalina Bold.json"
+      },
+      {
+        "label": "Best Themes - Xcode Fusion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best Themes - Xcode Fusion.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
